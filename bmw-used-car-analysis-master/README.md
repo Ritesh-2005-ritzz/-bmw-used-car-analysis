@@ -70,4 +70,5 @@ This dataset is also ideal for a **price prediction model** using Scikit-learn (
 
 **S Ritesh**  
 AI & ML Engineering Student — New Horizon College of Engineering, Bengaluru  
-[GitHub](https://github.com/Ritesh-2005-ritzz) • [LinkedIn](www.linkedin.com/in/s-ritesh-b46162421)
+[GitHub](https://github.com/Ritesh-2005-ritzz) • [LinkedIn](www.linkedin.com/in/
+s-ritesh-b46162421)
